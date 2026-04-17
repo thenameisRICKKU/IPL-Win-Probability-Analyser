@@ -1,4 +1,4 @@
-# IPL Live Win Probability Predictor (WASP) 🏏
+# IPL Win Probability Predictor (WASP) 🏏
 
 An end-to-end Machine Learning pipeline that dynamically predicts in-game IPL (Indian Premier League) win probabilities. This project acts as a functional WASP (Win and Score Predictor), similar to the live broadcast graphics used in modern T20 cricket.
 
